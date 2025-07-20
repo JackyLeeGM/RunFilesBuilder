@@ -44,9 +44,6 @@ wget -qO imm.sh https://cafe.cpolar.top/wkdaily/zero3/raw/branch/main/zero3/imm.
 
 ```
 
-## 赞助作者 
-
-[![赞助我](https://img.shields.io/badge/赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)
 
 <details>
 <summary><h2>🍭鸣谢和引用的项目 👇🏿</h2></summary>
