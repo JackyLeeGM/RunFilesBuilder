@@ -22,8 +22,7 @@
 >> 使用 `sh xxx.run --target dir --noexec ` 只解压到dir目录 不执行安装
 > <img src="https://github.com/user-attachments/assets/3f5dabba-1efa-4e67-bf5b-86a27c114902" height=40>
 
-## 实现原理和操作指南
-[![操作步骤](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/o0TN8LV01i4) https://www.youtube.com/watch?v=o0TN8LV01i4
+
 
 ## 原理解析
 https://wkdaily.cpolar.cn/archives/makerun
