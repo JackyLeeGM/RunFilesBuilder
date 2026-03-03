@@ -22,13 +22,8 @@ wget -qO imm.sh https://cafe.cpolar.top/wkdaily/zero3/raw/branch/main/zero3/imm.
 
 
 
-<a href="https://wkdaily.cpolar.top/01" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-       alt="Buy Me A Coffee"
-       style="width:20%; height:auto;">
-</a>
 
-<details>
+
 <summary><h2>🍭鸣谢和引用的项目 👇🏿</h2></summary>
   
 > 【打包】https://github.com/megastep/makeself
